@@ -21,7 +21,7 @@ fi
 
 mv "BluetoothData/UnzipData/bltMuos-dev/.bluetooth" "mnt/mmc/MUOS/application/"
 mv "BluetoothData/UnzipData/bltMuos-dev/Bluetooth.sh" "mnt/mmc/MUOS/application/Bluetooth.sh"
-mv "mnt/mmc/MUOS/application/.bluetooth/bin/bluetooth.png" "mnt/mmc/MUOS/theme/active/glyph/muxapp/bluetooth.png"
+mv "mnt/mmc/MUOS/application/.bluetooth/Assets/Icon/ic_bluetooth.png" "opt/MUOS/theme/active/glyph/muxapp/ic_bluetooth.png"
 
 echo "-----------------------------------"
 echo "|Author     : CuongNV             |"
